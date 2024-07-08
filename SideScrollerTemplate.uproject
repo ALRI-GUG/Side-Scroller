@@ -17,13 +17,11 @@
 			"Enabled": true
 		},
 		{
-
 			"Name": "Riverology_Plugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6f976ebef64c445c97feaa44ff4eda2d"
 		},
 		{
-
 			"Name": "PCG",
 			"Enabled": true
 		},
@@ -34,7 +32,6 @@
 		{
 			"Name": "PCGGeometryScriptInterop",
 			"Enabled": true
-
 		},
 		{
 			"Name": "HTN",
@@ -49,7 +46,50 @@
 		{
 			"Name": "promethean",
 			"Enabled": false
-
+		},
+		{
+			"Name": "StateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayInteractions",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "SmartObjects",
+			"Enabled": true
+		},
+		{
+			"Name": "ContextualAnimation",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayBehaviors",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayBehaviorSmartObjects",
+			"Enabled": true
 		}
 	]
 }
